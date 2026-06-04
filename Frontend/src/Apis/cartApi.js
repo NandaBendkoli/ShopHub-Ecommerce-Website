@@ -1,7 +1,8 @@
 import axios from "axios";
 
 const api = axios.create({
-    baseURL: "http://localhost:8900/Ecommerce-website/web/v1",
+    // baseURL: "http://localhost:8900/Ecommerce-website/web/v1",
+    baseURL: "https://shophub-ecommerce-website-8rnp.onrender.com/Ecommerce-website/web/v1",
     withCredentials: true,
 })
 
