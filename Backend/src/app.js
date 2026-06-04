@@ -13,7 +13,7 @@ app.use(
     cors({
         origin: [
             "http://localhost:5173",
-            "https://shop-hub-ecommerce-website-nucj.vercel.app/"
+            "https://shop-hub-ecommerce-website-nucj.vercel.app"
         ],
         credentials: true,
     })
