@@ -4,7 +4,7 @@ ShopHub is a modern full-stack eCommerce platform built using the MERN Stack. It
 
 ## 🚀 Live Demo
 
-🔗 Live Website: https://your-live-link.com
+🔗 Live Website: https://shop-hub-ecommerce-website-nucj.vercel.app/
 
 ## 📂 GitHub Repository
 
