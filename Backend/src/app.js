@@ -24,9 +24,6 @@ connectToDB();
 // all routes are goes here
 app.use("/Ecommerce-website/web/v1", router);
 
-
-app.use(express.json());
-
 export default app;
 
 
